@@ -7,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
+  userName = 'Joaquim';       // propriedade do componente
+
   title = 'hello3';
+
 }
